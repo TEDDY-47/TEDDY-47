@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Teddy 👋
 
-<!--
-**TEDDY-47/TEDDY-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android modder and tinkerer . I build Magisk modules, flash ROMs, tweak kernels, and fix hardware. Currently learning offensive security.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+- **Android:** Magisk, ADB/Fastboot, custom ROMs, kernels
+- **Languages:** Python, C++, PHP, Shell
+- **Hardware:** PCB and controller repair
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current project
+**magisk-llm-server** (in progress): a lightweight Magisk module that runs a local LLM server on rooted Android. It's off by default, stops itself when idle, and exposes an OpenAI-compatible API.
+
+## 🎯 Goals
+- Ship open-source Android tools people actually use
+- Break into red team / offensive security
+
+## 📫 Reach me
+[Telegram](https://t.me/TEDDY_47)
