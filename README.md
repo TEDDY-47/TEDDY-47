@@ -5,7 +5,7 @@ Android modder and tinkerer . I build Magisk modules, flash ROMs, tweak kernels,
 ## 🔧 What I work with
 - **Android:** Magisk, ADB/Fastboot, custom ROMs, kernels
 - **Languages:** Python, C++, PHP, Shell
-- **Hardware:** PCB and controller repair
+- **Hardware:** PCB 
 
 ## 🚀 Current project
 **magisk-llm-server** (in progress): a lightweight Magisk module that runs a local LLM server on rooted Android. It's off by default, stops itself when idle, and exposes an OpenAI-compatible API.
